@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3947'
     url: http://www.gutenberg.org/2009/agents/3947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25076#Between-the-Lines
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2008-04-15'
 gutenberg_type: Text
